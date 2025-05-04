@@ -1,2 +1,7 @@
 # CSE-310-projects
-Assignments for CSE 31-
+This is a project for learning Java language
+
+The following steps were done to set up the envioronment
+Install the coding pack for Java from https://code.visualstudio.com/docs/languages/java.
+
+
